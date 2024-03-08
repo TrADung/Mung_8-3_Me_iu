@@ -221,7 +221,7 @@ body {
         position:absolute ;
         top: 5%;
         width:100%;
-        font-size:75%;
+        font-size:80%;
         text-align: center;
         transform:translate ;
         color:saddlebrown;
@@ -245,7 +245,7 @@ body {
     h4{
       position:absolute ;
       top: 88%;
-      right: -26% ;
+      right: -28% ;
       width:100%;
       font-size: 80%;
       text-align:center;
