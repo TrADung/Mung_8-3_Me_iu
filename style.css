@@ -219,9 +219,9 @@ body {
     
     h2{
         position:absolute ;
-        top: 6%;
+        top: -10%;
         width:100%;
-        font-size:60%;
+        font-size:75%;
         text-align: center;
         transform:translate ;
         color:saddlebrown;
